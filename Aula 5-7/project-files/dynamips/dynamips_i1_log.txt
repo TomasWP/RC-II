@@ -1,0 +1,8 @@
+May 08 16:37:42.968 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+May 08 16:37:42.972 HYPERVISOR: Started on IP = localhost, TCP port = 40937.
+May 08 16:37:43.297 HYPERVISOR: exec_cmd: hypervisor version 
+May 08 16:37:43.309 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\tomas\OneDrive - Universidade de Aveiro\Tomas\U.A\2 Ano\2 Semestre\RC-II\Aula 5-7\project-files\dynamips 
+May 08 16:37:43.351 GENERAL: working_dir=C:\Users\tomas\OneDrive - Universidade de Aveiro\Tomas\U.A\2 Ano\2 Semestre\RC-II\Aula 5-7\project-files\dynamips
+May 08 16:37:43.351 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\tomas\OneDrive - Universidade de Aveiro\Tomas\U.A\2 Ano\2 Semestre\RC-II\Aula 5-7\project-files\dynamips\4500b3cc-8a28-4885-a14f-e818811a65a0 
+May 08 16:37:43.351 GENERAL: working_dir=C:\Users\tomas\OneDrive - Universidade de Aveiro\Tomas\U.A\2 Ano\2 Semestre\RC-II\Aula 5-7\project-files\dynamips\4500b3cc-8a28-4885-a14f-e818811a65a0
+May 08 16:37:43.355 HYPERVISOR: exec_cmd: vm create R1 1 c7200 

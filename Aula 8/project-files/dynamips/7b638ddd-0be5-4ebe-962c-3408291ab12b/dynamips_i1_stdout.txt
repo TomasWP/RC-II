@@ -1,0 +1,8 @@
+cygwin warning:
+  MS-DOS style path detected: C:\Users\tomas\OneDrive - Universidade de Aveiro\Tomas\U.A\2 Ano\2 Semestre\RC-II\Aula 8\project-files\dynamips
+  Preferred POSIX equivalent is: /cygdrive/c/Users/tomas/OneDrive - Universidade de Aveiro/Tomas/U.A/2 Ano/2 Semestre/RC-II/Aula 8/project-files/dynamips
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+      3 [unknown (0xC6DC)] dynamips 61232 C:\Program Files\GNS3\dynamips\dynamips.EXE: *** fatal error - NtCreateEvent(lock): 0xC0000058
+   1487 [unknown (0xC6DC)] dynamips 61232 cygwin_exception::open_stackdumpfile: Dumping stack trace to dynamips.EXE.stackdump
